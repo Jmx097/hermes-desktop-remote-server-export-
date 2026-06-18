@@ -5,7 +5,7 @@ A reusable Hermes skill for packaging and operating remote Hermes Desktop server
 ## Install
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/<owner>/<repo>/<branch>/hermes-desktop-remote-server-export/SKILL.md
+hermes skills install https://raw.githubusercontent.com/Jmx097/hermes-desktop-remote-server-export-/main/SKILL.md
 ```
 
 ## What it covers

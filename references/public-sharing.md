@@ -17,7 +17,7 @@ hermes-desktop-remote-server-export/
 Then users can install from the raw SKILL.md URL:
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/<owner>/<repo>/<branch>/hermes-desktop-remote-server-export/SKILL.md
+hermes skills install https://raw.githubusercontent.com/Jmx097/hermes-desktop-remote-server-export-/main/SKILL.md
 ```
 
 ## Option 2: Publish in a skills repo
@@ -43,7 +43,7 @@ A reusable Hermes skill for packaging and operating remote Hermes Desktop server
 Install:
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/<owner>/<repo>/<branch>/hermes-desktop-remote-server-export/SKILL.md
+hermes skills install https://raw.githubusercontent.com/Jmx097/hermes-desktop-remote-server-export-/main/SKILL.md
 ```
 
 Use when you need to expose Hermes Desktop remote access behind nginx or another reverse proxy, keep dashboard and `/v1` API surfaces straight, and troubleshoot session-token vs Sign in behavior.
